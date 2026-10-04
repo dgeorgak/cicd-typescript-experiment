@@ -25,4 +25,4 @@ jobs:
         run: npm i -D @vitest/coverage-v8
 
       - name: Build the app
-      - run: npm run build
+        run: npm run build
